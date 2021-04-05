@@ -21,12 +21,10 @@ npx install-peerdeps --dev eslint-config-sh
 2 在项目跟目录下添加 .eslintrc.js
 
 ```js
-{
-  'root': true,
-  'extends': [
-    'sh'
-  ]
-}
+module.exports = {
+  root: true,
+  extends: ["sh"],
+};
 ```
 
 3 在项目跟目录添加 .prettierrc
