@@ -1,4 +1,4 @@
-# eslint-config-ds
+# eslint-config-sh
 
 ## 介绍
 
@@ -7,5 +7,5 @@
 ## install
 
 ```bash
-npm install -save eslint-config-ds
+npm install -save eslint-config-sh
 ```
