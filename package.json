@@ -1,13 +1,17 @@
 {
   "name": "eslint-config-sh",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "把平时自己用的 eslint 代码规范整合到这个项目中，方便其他项目直接使用",
   "main": "index.js",
   "scripts": {
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "push": "./scripts/release.sh"
   },
-  "keywords": ["eslint","airbnb","eslint-config"],
+  "keywords": [
+    "eslint",
+    "airbnb",
+    "eslint-config"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
