@@ -106,7 +106,7 @@ npm install --save-dev eslint babel-eslint eslint-plugin-babel eslint-plugin-imp
 - "eslint-plugin-prettier": "^3.3.1",
 - "eslint-plugin-react": "^7.23.1",
 - "eslint-plugin-react-hooks": "^4.2.0",
-- @typescript-eslint/eslint-plugin
-- "@typescript-eslint/parser": "^4.9.0",
-- eslint-plugin-vue
-- typescript
+- "@typescript-eslint/eslint-plugin": "^5.10.1",
+- "@typescript-eslint/parser": "^5.10.1",
+- "eslint-plugin-vue": "^8.3.0",
+- "typescript": "^4.5.5"
