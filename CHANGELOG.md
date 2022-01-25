@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/sh-react-club/eslint-config-sh/compare/prefix_v1.4.0...prefix_v1.5.0) (2022-01-25)
+
+
+### Features
+
+* add "eslint-plugin-babel": "^5.3.1", ([240b0a8](https://github.com/sh-react-club/eslint-config-sh/commit/240b0a815837d04efff35d52eed76a89ac1fd817))
+
 ## [1.4.0](https://github.com/sh-react-club/eslint-config-sh/compare/prefix_v1.3.0...prefix_v1.4.0) (2022-01-25)
 
 
